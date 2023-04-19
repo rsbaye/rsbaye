@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rsbaye
-- 👀 I’m interested in learing python for data science
-- 🌱 I’m currently learning quantitative finance
+- 👀 I’m interested in using python | stata and | R for data science related projects
+- 🌱 I’m currently learning quantitative finance modelling
 - 💞️ I’m looking to collaborate on data related projects
 - 📫 How to reach me richmondbaye@gmail.com
 
