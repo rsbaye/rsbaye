@@ -1,4 +1,4 @@
-You are most welcome to my Github!😊. My name is Richmond Silvanus Baye and I am a Quantitative Researcher with interest in working with different types of Data and Models. 
+You are most welcome to my Github!😊. My name is Richmond Silvanus Baye and I am a Quantitative Researcher with interest in transdisciplinary, cross-functional collaboration and developing solutions for real-world, large-scale problems.
 
 💼🎓 I’m currently a PhD Candidate at the University of Vermont.
 
@@ -6,9 +6,7 @@ You are most welcome to my Github!😊. My name is Richmond Silvanus Baye and I 
 
 💼 Previously worked as a Researcher with the German Institute of Development and Sustainability.
 
-💼 Previously worked as an IT Engineer Digital Charging Solutions GmbH (BMW & Mercedes Benz).
-
-💼 Previously worked as an IT Engineer Digital Charging Solutions GmbH (BMW & Mercedes Benz).
+💼 Previously worked as an IT Engineer with Digital Charging Solutions GmbH (BMW & Mercedes Benz).
 
 📓 Familiar with:
       Language: Python (sklearn, numpy, pandas, matplotlib, seaborn, tensorflow, scipy, econml), R, Stata, Eviews, Gephi, SPSS.
