@@ -20,10 +20,8 @@ You are most welcome to my Github!😊. My name is Richmond Silvanus Baye and I 
 
 📓 Currently learning Deep learning, System Dynamic Models, Agent Based models, PySpark, and Bayesian Networks
 
-🔋 Passionate / Energized about POC in STEM
-
-🏙 Location Powell, Ohio 
+🏙 Location: Powell, Ohio 
 
 📫 How to reach me richmondbaye@gmail.com
 
-⚡ FC Bacelona Fan and I love playing soccer and Table Tennis
+⚡ FC Bacelona Fan, Soccer, Volley Ball, and Table Tennis.
