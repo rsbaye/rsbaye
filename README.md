@@ -1,4 +1,4 @@
-You are most welcome to my Github!😊. My name is Richmond Silvanus Baye and I am a 📉 Quantitative Researcher with interest in working with different types of Data and Models. 
+You are most welcome to my Github!😊. My name is Richmond Silvanus Baye and I am a Quantitative Researcher with interest in working with different types of Data and Models. 
 
 💼🎓 I’m currently a PhD Candidate at the University of Vermont.
 
@@ -20,8 +20,6 @@ You are most welcome to my Github!😊. My name is Richmond Silvanus Baye and I 
 
 📓 Currently learning Deep learning, System Dynamic Models, Agent Based models, PySpark, and Bayesian Networks
 
-🏙 Location: Powell, Ohio 
-
-📫 How to reach me richmondbaye@gmail.com
+📫 Contact: richmondbaye@gmail.com
 
 ⚡ FC Bacelona Fan, Soccer, Volley Ball, and Table Tennis.
