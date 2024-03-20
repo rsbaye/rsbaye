@@ -16,7 +16,7 @@ You are most welcome to my Github!😊. My name is Richmond Silvanus Baye and I 
       Causal ML, Research Designs, Survey Designs, Decision Science, Data Visualization, Bayesian Hierarchical Models, A|B Testing.
       Statistical Models (Random Regret model, Mixed logit models, Panel Data Analysis, Time Series Analysis, Structural Equation Modelling, Latent Class Analysis, Non-parametric Regression)
 
-📓 Currently learning Deep learning, System Dynamic Models, Agent Based models, PySpark, and Bayesian Networks
+📓 Current interest: Deep learning, System Dynamic Models, Agent Based models, PySpark, and Bayesian Networks
 
 📫 Contact: richmondbaye@gmail.com
 
