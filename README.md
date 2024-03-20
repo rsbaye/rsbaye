@@ -2,7 +2,7 @@ You are most welcome to my Github!😊. My name is Richmond Silvanus Baye and I 
 
 💼🎓 I’m currently a PhD Candidate at the University of Vermont.
 
-🎓 Previous Alumina: University of Milan, University of Ghana, University of Cape Coast.
+🎓 Alma mater: University of Milan, University of Tuebingen, University of Ghana, University of Cape Coast.
 
 💼 Previously worked as a Researcher with the German Institute of Development and Sustainability.
 
