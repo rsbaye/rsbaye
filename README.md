@@ -1,4 +1,4 @@
-You are most welcome to my Github!😊. My name is Richmond Silvanus Baye and I am a Quantitative Researcher with interest in transdisciplinary, cross-functional collaboration and developing solutions for real-world, large-scale problems.
+You are most welcome to my Github😊. My name is Richmond Silvanus Baye and I am a Quantitative Researcher with interest in transdisciplinary, cross-functional collaboration and developing solutions for real-world, large-scale problems.
 
 💼🎓 I’m currently a PhD Candidate at the University of Vermont.
 
