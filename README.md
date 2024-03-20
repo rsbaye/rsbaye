@@ -10,7 +10,7 @@ You are most welcome to my Github😊. My name is Richmond Silvanus Baye and I a
 
 📓 Familiar with:
       Language: Python (sklearn, numpy, pandas, matplotlib, seaborn, tensorflow, scipy, econml), R, Stata, Eviews, Gephi, SPSS.
-      Tools: SQL, PySpark, GitHub, Tableau, Microsoft Office Tools.
+      Tools: SQL, PySpark, GitHub, Tableau, Microsoft Office Tools, JIRA.
       Frameworks & Methods: Machine Learning (Classification (SVM, Decision Trees, Random Forest, Logistic Regression), 
       Regression, PCA, TSNE, DBSCAN, Gaussian Mixture), Bayesian Network (Markov Blanket, Semi-Supervised Learning, Augmented Naïve Bayes), 
       Causal ML, Research Designs, Survey Designs, Decision Science, Data Visualization, Bayesian Hierarchical Models, A|B Testing.
