@@ -6,8 +6,8 @@ My name is Richmond Silvanus Baye, and I am a Quantitative Researcher with a pas
 
 ### 💼 About Me
 
-*   🎓 I’m currently a PhD Candidate at the University of Vermont.
-*   🎓 **Alma Mater:** University of Milan, University of Tuebingen, University of Ghana, University of Cape Coast.
+*   
+*   🎓 **Alma Mater:** University of Vermont, University of Milan, University of Tuebingen, University of Ghana, University of Cape Coast.
 *   💼 **Previous Roles:**
     *   Researcher at the German Institute of Development and Sustainability.
     *   IT Engineer at Digital Charging Solutions GmbH (BMW & Mercedes Benz).
